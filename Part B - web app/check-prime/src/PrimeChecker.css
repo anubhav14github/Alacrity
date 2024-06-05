@@ -1,0 +1,37 @@
+.prime-checker {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .input-section {
+    margin-bottom: 20px;
+  }
+  
+  .input-section label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .input-section input {
+    margin: 0 10px;
+    padding: 5px;
+  }
+  
+  .input-section button {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .result ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
